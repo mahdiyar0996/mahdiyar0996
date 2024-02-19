@@ -29,27 +29,12 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=mahdiyar0996&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Education
-- **Bachelor's Degree**: Computer Science
-  - Semnan University, Semnan, Iran
-  - Sep 2019 - May 2023
-
-## Languages
-- **English**: Fluent
-- **Persian**: Native
-
-</br>
-</br>
 
 <div align="center">
-  <a href="http://www.instagram.com/setayeshce/">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-ea4456.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/setayesh-hoseini-6b655a231/">
+  <a href="https://www.linkedin.com/in/mahdiyar-azimi-2a2322297/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:setayesh.hoseiini79@gmail.com">
+  <a href="mailto:mahdiazimi007m@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
