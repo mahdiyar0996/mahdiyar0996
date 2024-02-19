@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=setayeshce&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/setayeshce/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshce&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/setayeshce/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdiyar0996&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/mahdiyar0996/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyar0996&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/mahdiyar0996/github-readme-stats)
 
 ## About Me
 I'm Setayesh Hoseini, a passionate and dedicated Flutter Developer with a strong focus on Flutter development. I have a proven track record in the computer software industry and am committed to continuous learning and staying up-to-date with the latest technologies. I'm actively seeking opportunities to excel in the field of Flutter development.
